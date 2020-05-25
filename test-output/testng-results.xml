@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5459" started-at="2020-05-25T02:43:10Z" finished-at="2020-05-25T02:43:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5459" started-at="2020-05-25T02:43:10Z" finished-at="2020-05-25T02:43:16Z">
+      <class name="tests.GetCatFactTest">
+        <test-method status="PASS" signature="getRandomCatFact()[pri:0, instance:tests.GetCatFactTest@2c8d66b2]" name="getRandomCatFact" duration-ms="5434" started-at="2020-05-25T04:43:10Z" finished-at="2020-05-25T04:43:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRandomCatFact -->
+      </class> <!-- tests.GetCatFactTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
